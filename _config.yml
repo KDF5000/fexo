@@ -129,8 +129,8 @@ google_analytics:
 baidu_analytics: 
 
 # Comment service
-#disqus_shortname: forsigner
-duoshuo_shortname: kdf5000
+disqus_shortname: kdf5000
+#duoshuo_shortname: kdf5000
 
 # 不算子,文章访问量统计和显示
 busuanzi: true
